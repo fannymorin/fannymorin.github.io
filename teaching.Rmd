@@ -2,29 +2,12 @@
 title: "Teaching"
 ---
 
-## 2014 à 2016
+## 2016 - 2017
 
-### SCI123 (ujf-grenoble) : dynamique des populations
+Soon to come...
 
-#### Phase 1
+## 2015 à 2016
 
-##### Matin
+### Base de données
 
-- TD1 : <a href="assets/teaching/pdf/TD1_DynaPops.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-- TP1 : <a href="assets/teaching/html/TP1.html"><i class="fa fa-html5" aria-hidden="true"></i></a>
-
-##### Après-midi
-
-- TD1 : <a href="assets/teaching/pdf/TD2_DynaPops.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-- TP1 : <a href="assets/teaching/html/TP2.html"><i class="fa fa-html5" aria-hidden="true"></i></a>
-
-#### Phase 2
-
-- Sujets : <a href="assets/teaching/pdf/sujets_DynaPops.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-
-
-### MAP110 (ujf-grenoble) : découvertes des mathématiques appliquées
-
-### MAT11o (ujf-grenoble) : soutien de mathématiques en licence 1
-
-
+Soon to come...
