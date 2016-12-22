@@ -2,5 +2,9 @@
 title: "About This Website"
 ---
 
-### Cedits
+----
+
+## Credits
 This website is a fork of the <a href="https://github.com/rstudio/rmarkdown/tree/gh-pages">Rmarkdown</a> website. Html pages are build using Rmarkdown.
+
+----

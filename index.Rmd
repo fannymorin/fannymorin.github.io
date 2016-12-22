@@ -20,8 +20,8 @@ $("#pageContent").removeClass("standardPadding");
   <div class="band full blue first rightText">
     <div class="bandContent vCenter">
       <div class="blurb">
-      <div class="tagline">Hello, I am Fanny Morin,</div>
-        <div>PhD Student, Univ Grenoble Alpes.</div>
+      <div class="tagline">PhD Student, Univ Grenoble Alpes</div>
+        <div>Seaking job in the fields of numerical simulation, biomechanics and computer graphics</div>
       </div>
     </div>
   </div>

@@ -1,15 +1,27 @@
 ---
 title: "Publications"
 ---
+
+----
+
 ## 2016
+
+----
 
 Soon to come...
 
+----
+
 ## 2015
 
+------
+
 ### Rest shape computation for highly deformable model of brain <a href="https://hal.archives-ouvertes.fr/hal-01217673v1/document"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-Fanny Morin, Hadrien Courtecuisse, Matthieu Chabanas, Yohan Payan<br>
+**Fanny Morin**, Hadrien Courtecuisse, Matthieu Chabanas, Yohan Payan<br>
 **Computer methods in biomechanics and biomedical engineering**, 18(sup1), pp 2006-2007  
-<i class="fa fa-angle-double-left" aria-hidden="true"></i>
+<i class="fa fa-quote-left" aria-hidden="true"></i>
 *In medical simulations, finite element (FE) models are often extracted from medical images. This initial geometry usually corresponds to a state of the model at equilibrium between external and internal forces. Therefore, an important issue in biomechanics is to estimate the initial stress of FE model before running a simulation. this paper introduces a biomechanical model of the brain that will be used to model brain-shift during surgery. The initial stress is estimated for this model by taking into account gravity.*
-<i class="fa fa-angle-double-right" aria-hidden="true"></i>
+<i class="fa fa-quote-right" aria-hidden="true"></i> 
+
+------
+

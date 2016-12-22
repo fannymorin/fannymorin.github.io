@@ -2,8 +2,56 @@
 title: "CV"
 ---
 
-### CV
+----
 
-Soon to come...
+## Skills
+
+**Fields**  
+Numerical simulation, biomechanics, computer graphics, registration, image segmentation  
+**Computer science**  
+C/C++, Sofa, VTK, Cuda, OpenMP/MPI, OpenGL, GLSL, Matlab, Scilab, Java, SQL, Latex  
+**Languages**  
+English, spanish  
+
+----
+
+## Education
+
+**2014 - 2017 ** PhD student, Univ. Grenoble Alpes  
+
+**2011 - 2014 ** Grenoble-INP, ENSIMAG  
+
+**2009 - 2011 ** La prépa des INP  
+
+**June 2009 ** Scientific baccalareate  
+
+----
+
+## Professional experience
+
+**Oct 2014 - 2017 ** PhD student, Univ. Grenoble Alpes  
+
+**Feb - Aug 2014** Research internship, Dassault Systèmes  
+
+**Jul - Aug 2013 ** R&D internship, Esterel Technologies  
+
+----
+
+## Interests
+
+**Sports**  
+Tennis in competition and moutain sports  
+
+**Travels**  
+Visit and trekking in numerous countries in Europe, Africa and America  
+
+----
+
+PDF versions in English <a href="cv-en-anglais"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>, in French <a href="cv-en-francais"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+
+
+
+
+
 
 
